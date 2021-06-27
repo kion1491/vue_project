@@ -1,5 +1,5 @@
 # vue_project
-
+https://kion1491.github.io/vue_project/
 ## Project setup
 ```
 npm install
